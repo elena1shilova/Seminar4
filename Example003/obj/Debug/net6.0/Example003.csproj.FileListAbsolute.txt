@@ -1,0 +1,15 @@
+C:\Users\elena\OneDrive\Рабочий стол\programm\Seminar4\Example003\bin\Debug\net6.0\Example003.exe
+C:\Users\elena\OneDrive\Рабочий стол\programm\Seminar4\Example003\bin\Debug\net6.0\Example003.deps.json
+C:\Users\elena\OneDrive\Рабочий стол\programm\Seminar4\Example003\bin\Debug\net6.0\Example003.runtimeconfig.json
+C:\Users\elena\OneDrive\Рабочий стол\programm\Seminar4\Example003\bin\Debug\net6.0\Example003.dll
+C:\Users\elena\OneDrive\Рабочий стол\programm\Seminar4\Example003\bin\Debug\net6.0\Example003.pdb
+C:\Users\elena\OneDrive\Рабочий стол\programm\Seminar4\Example003\obj\Debug\net6.0\Example003.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Рабочий стол\programm\Seminar4\Example003\obj\Debug\net6.0\Example003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\OneDrive\Рабочий стол\programm\Seminar4\Example003\obj\Debug\net6.0\Example003.AssemblyInfoInputs.cache
+C:\Users\elena\OneDrive\Рабочий стол\programm\Seminar4\Example003\obj\Debug\net6.0\Example003.AssemblyInfo.cs
+C:\Users\elena\OneDrive\Рабочий стол\programm\Seminar4\Example003\obj\Debug\net6.0\Example003.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Рабочий стол\programm\Seminar4\Example003\obj\Debug\net6.0\Example003.dll
+C:\Users\elena\OneDrive\Рабочий стол\programm\Seminar4\Example003\obj\Debug\net6.0\refint\Example003.dll
+C:\Users\elena\OneDrive\Рабочий стол\programm\Seminar4\Example003\obj\Debug\net6.0\Example003.pdb
+C:\Users\elena\OneDrive\Рабочий стол\programm\Seminar4\Example003\obj\Debug\net6.0\Example003.genruntimeconfig.cache
+C:\Users\elena\OneDrive\Рабочий стол\programm\Seminar4\Example003\obj\Debug\net6.0\ref\Example003.dll
